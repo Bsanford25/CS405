@@ -1,0 +1,4 @@
+Final Reflection
+Robert Sanford
+CS 405 SNHU
+	I learned quite a few ways to practice secure coding and create more secure programs throughout this course. One principle that helps to ensure more secure code is to implement security from the beginning. Doing this helps prevent vulnerabilities from popping up late in the project, or worse, when it is production. It is also important to evaluate and assess threats in terms of the damage they can cause and how costly it would be to fix. Threats are also evaluated in terms of how likely they are to happen. This course also stresses the importance of having Defense in Depth. Having multiple layers of security is critical to any system as it provides multiple lines of defense in the event of an attack. If one layer is compromised, then there are more layers of security behind it to pick up the slack.
